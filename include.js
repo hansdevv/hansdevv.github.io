@@ -2,14 +2,15 @@ const  header = `
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Global</title>
+  <title>Mohamad Burhanudin</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="HTML5 website template">
-  <meta name="keywords" content="global, template, html, sass, jquery">
-  <meta name="author" content="Bucky Maler">
+  <meta name="description" content="website mohamadburhan151">
+  <meta name="keywords" content="mohamad burhanudin, global, template, html, sass, jquery">
+  <meta name="author" content="Mohamad Burhanudin">
   <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="icon" href="assets/img/logo.png" sizes="192x192" />
 </head>
 <body>
 `
